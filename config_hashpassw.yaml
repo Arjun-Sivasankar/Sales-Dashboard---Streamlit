@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 30
+  key: abcdef
+  name: sales_dashboard
+credentials:
+  usernames:
+    pparker:
+      email: pparker@gmail.com
+      name: Peter Parker
+      password: $2b$12$ka0YemDnFPuLAbMf6Z50MuxOhF5matAdHPxDuxLJ5U86qGSJNz7BC
+    tstark:
+      email: tstark@gmail.com
+      name: Tony Stark
+      password: $2b$12$lRA1xQjiPAR6AwOZFs3NVeGo5/AA04eZKGt.rAQKlLAxMm1a1mPBa
+preauthorized:
+  emails:
+  - melsby@gmail.com

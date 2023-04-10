@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    pparker:
+      email: pparker@gmail.com
+      name: Peter Parker
+      password: spiderman # To be replaced with hashed password
+    tstark:
+      email: tstark@gmail.com
+      name: Tony Stark
+      password: ironman # To be replaced with hashed password
+cookie:
+  expiry_days: 30
+  key: abcdef
+  name: sales_dashboard
+preauthorized:
+  emails:
+  - melsby@gmail.com
