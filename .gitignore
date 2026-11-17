@@ -1,0 +1,15 @@
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
